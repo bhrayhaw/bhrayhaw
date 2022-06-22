@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhrayhaw
-- 👀 I’m interested in python and AI stuffs
+- 👀 I’m interested in graphic design,python and AI stuffs
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects to improve my skills
 - 📫 How to reach me elijahapreko@gmail.com
