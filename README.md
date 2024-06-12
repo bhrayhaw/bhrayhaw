@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Todo API with email reminder**
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React, Node**
 
