@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Elijah Yaw Apreko</h1>
-<h3 align="center">A passionate MERN Stack developer from Ghana</h3>
+<h3 align="center">A MERN Stack developer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 
